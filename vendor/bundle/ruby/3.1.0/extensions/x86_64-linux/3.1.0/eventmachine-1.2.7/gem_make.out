@@ -1,0 +1,16 @@
+current directory: /home/sa3036/Documents/git_projects/al-folio/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/home/sa3036/.rbenv/versions/3.1.2/bin/ruby -I /home/sa3036/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20230301-72032-nxrddd.rb extconf.rb
+creating Makefile
+
+current directory: /home/sa3036/Documents/git_projects/al-folio/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= clean
+
+current directory: /home/sa3036/Documents/git_projects/al-folio/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\=
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/sa3036/Documents/git_projects/al-folio/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20230301-72032-yg22po

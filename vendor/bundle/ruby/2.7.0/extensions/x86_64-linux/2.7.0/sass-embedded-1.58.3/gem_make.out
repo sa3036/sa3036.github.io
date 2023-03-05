@@ -1,0 +1,10 @@
+current directory: /home/sa3036/Documents/git_projects/al-folio/vendor/bundle/ruby/2.7.0/gems/sass-embedded-1.58.3/ext/sass
+/usr/bin/ruby2.7 -I/usr/lib/ruby/vendor_ruby -rrubygems /home/sa3036/Documents/git_projects/al-folio/vendor/bundle/ruby/2.7.0/gems/rake-13.0.6/exe/rake RUBYARCHDIR\=/home/sa3036/Documents/git_projects/al-folio/vendor/bundle/ruby/2.7.0/extensions/x86_64-linux/2.7.0/sass-embedded-1.58.3 RUBYLIBDIR\=/home/sa3036/Documents/git_projects/al-folio/vendor/bundle/ruby/2.7.0/extensions/x86_64-linux/2.7.0/sass-embedded-1.58.3
+fetch https://github.com/sass/dart-sass-embedded/releases/download/1.58.3/sass_embedded-1.58.3-linux-x64.tar.gz
+mkdir -p .
+tar -vxC . -f sass_embedded-1.58.3-linux-x64.tar.gz --no-same-owner --no-same-permissions
+sass_embedded/src/LICENSE
+sass_embedded/src/dart
+sass_embedded/src/dart-sass-embedded.snapshot
+sass_embedded/dart-sass-embedded
+rm sass_embedded-1.58.3-linux-x64.tar.gz
